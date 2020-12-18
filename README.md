@@ -1,5 +1,5 @@
 1-npm install
-2-npm i react-bootstrap
+2-npm i bootstrap react-bootstrap
 3-npm start
 
 
