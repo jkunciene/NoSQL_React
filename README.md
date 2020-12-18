@@ -1,6 +1,10 @@
+susikurti firestore DB / duomenų kolekcijos pavadinimas times / stulpelių pavadinimai title ir time
+
 1-npm install
 2-npm i bootstrap react-bootstrap
 3-npm start
+
+skaidrės https://docs.google.com/presentation/d/15caHGCVUBqXSrw63mRH4olEZmzctafw6NXBuF1wmyTI/edit?usp=sharing
 
 
 # Getting Started with Create React App
